@@ -1,0 +1,1 @@
+rental_idrental_idcustomer_idvehicle_idrental_date
